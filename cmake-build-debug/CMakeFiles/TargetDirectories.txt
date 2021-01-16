@@ -1,0 +1,3 @@
+/home/handling/home/handling/CppHomeWork/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/handling/home/handling/CppHomeWork/cmake-build-debug/CMakeFiles/CppHomeWork.dir
+/home/handling/home/handling/CppHomeWork/cmake-build-debug/CMakeFiles/edit_cache.dir

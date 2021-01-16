@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="CppHomeWork" targetName="CppHomeWork" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6b91229-bf99-4855-beba-0f61b03774e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1haWQ8iCPgIcCiVpsasQ1bQj165" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/threadpool_bo" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\CppHomeWork\threadpool_bo" />
+      <recent name="H:\CppHomeWork\netlib\testfunc" />
+      <recent name="H:\CppHomeWork" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CppHomeWork" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CppHomeWork" TARGET_NAME="CppHomeWork" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CppHomeWork" RUN_TARGET_NAME="CppHomeWork">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6b91229-bf99-4855-beba-0f61b03774e6" name="Default Changelist" comment="" />
+      <created>1600249665282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600249665282</updated>
+      <workItem from="1600249667966" duration="212000" />
+      <workItem from="1600256020374" duration="2063000" />
+      <workItem from="1600260689954" duration="2715000" />
+      <workItem from="1600263424067" duration="611000" />
+      <workItem from="1600391151920" duration="9566000" />
+      <workItem from="1600412336610" duration="3642000" />
+      <workItem from="1600648386423" duration="1312000" />
+      <workItem from="1600681276072" duration="8858000" />
+      <workItem from="1600737097261" duration="17000" />
+      <workItem from="1600821248800" duration="1068000" />
+      <workItem from="1600841558925" duration="9000" />
+      <workItem from="1601033138663" duration="2714000" />
+      <workItem from="1601038437506" duration="2196000" />
+      <workItem from="1601043636128" duration="5277000" />
+      <workItem from="1601086792049" duration="1548000" />
+      <workItem from="1601088353963" duration="14464000" />
+      <workItem from="1601253937690" duration="1430000" />
+      <workItem from="1601255484849" duration="4781000" />
+      <workItem from="1601296476372" duration="13000" />
+      <workItem from="1601860244477" duration="13787000" />
+      <workItem from="1601899035266" duration="235000" />
+      <workItem from="1601899283270" duration="811000" />
+      <workItem from="1601904225196" duration="1658000" />
+      <workItem from="1601907006628" duration="821000" />
+      <workItem from="1601984487910" duration="12315000" />
+      <workItem from="1602033312782" duration="12879000" />
+      <workItem from="1602064182225" duration="521000" />
+      <workItem from="1602157769616" duration="3068000" />
+      <workItem from="1602212698889" duration="2831000" />
+      <workItem from="1602471974853" duration="1768000" />
+      <workItem from="1602482269139" duration="12664000" />
+      <workItem from="1602675060189" duration="15348000" />
+      <workItem from="1602765240869" duration="147000" />
+      <workItem from="1602829837929" duration="9029000" />
+      <workItem from="1602897577055" duration="1666000" />
+      <workItem from="1602902631769" duration="3441000" />
+      <workItem from="1602906629487" duration="20060000" />
+      <workItem from="1603152754984" duration="64000" />
+      <workItem from="1603153082381" duration="440000" />
+      <workItem from="1603153591220" duration="27668000" />
+      <workItem from="1603335782990" duration="86010000" />
+      <workItem from="1603864804878" duration="2011000" />
+      <workItem from="1604575153405" duration="535000" />
+      <workItem from="1604577479127" duration="11000" />
+      <workItem from="1610031314734" duration="1773000" />
+      <workItem from="1610252643056" duration="3693000" />
+      <workItem from="1610261988760" duration="288000" />
+      <workItem from="1610276513910" duration="11087000" />
+      <workItem from="1610766884183" duration="970000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="866" y="72" width="388" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1603714222541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="866" y="72" width="388" height="582" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1603714222541" />
+    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603113268723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1603113268723" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603153125866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603153125866" />
+    <state x="530" y="229" key="#xdebugger.evaluate" timestamp="1602857219961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="229" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1602857219961" />
+    <state x="609" y="221" key="FileChooserDialogImpl" timestamp="1610036832547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="609" y="221" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610036832547" />
+    <state width="1493" height="312" key="GridCell.Tab.-1.bottom" timestamp="1601904326962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="312" key="GridCell.Tab.-1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601904326962" />
+    <state width="1493" height="312" key="GridCell.Tab.-1.center" timestamp="1601904326962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="312" key="GridCell.Tab.-1.center/0.0.1536.824@0.0.1536.824" timestamp="1601904326962" />
+    <state width="1493" height="312" key="GridCell.Tab.-1.left" timestamp="1601904326962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="312" key="GridCell.Tab.-1.left/0.0.1536.824@0.0.1536.824" timestamp="1601904326962" />
+    <state width="1493" height="312" key="GridCell.Tab.-1.right" timestamp="1601904326962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="312" key="GridCell.Tab.-1.right/0.0.1536.824@0.0.1536.824" timestamp="1601904326962" />
+    <state width="789" height="215" key="GridCell.Tab.0.bottom" timestamp="1602857375201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="789" height="215" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602857375201" />
+    <state width="789" height="215" key="GridCell.Tab.0.center" timestamp="1602857375201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="789" height="215" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602857375201" />
+    <state width="789" height="215" key="GridCell.Tab.0.left" timestamp="1602857375200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="789" height="215" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602857375200" />
+    <state width="789" height="215" key="GridCell.Tab.0.right" timestamp="1602857375201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="789" height="215" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602857375201" />
+    <state width="789" height="215" key="GridCell.Tab.1.bottom" timestamp="1602857375201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="789" height="215" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602857375201" />
+    <state width="789" height="215" key="GridCell.Tab.1.center" timestamp="1602857375201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="789" height="215" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602857375201" />
+    <state width="789" height="215" key="GridCell.Tab.1.left" timestamp="1602857375201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="789" height="215" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602857375201" />
+    <state width="789" height="215" key="GridCell.Tab.1.right" timestamp="1602857375201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="789" height="215" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602857375201" />
+    <state width="1493" height="312" key="GridCell.Tab.2.bottom" timestamp="1601904322698">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="312" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601904322698" />
+    <state width="1493" height="312" key="GridCell.Tab.2.center" timestamp="1601904322698">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="312" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1601904322698" />
+    <state width="1493" height="312" key="GridCell.Tab.2.left" timestamp="1601904322698">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="312" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1601904322698" />
+    <state width="1493" height="312" key="GridCell.Tab.2.right" timestamp="1601904322698">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="312" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1601904322698" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1601906794341">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601906794341" />
+    <state x="158" y="194" width="602" height="630" key="find.popup" timestamp="1603251953707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="158" y="194" width="602" height="630" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1603251953707" />
+    <state x="449" y="143" key="ftp.server.browser" timestamp="1601906791832">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="143" key="ftp.server.browser/0.0.1536.824@0.0.1536.824" timestamp="1601906791832" />
+    <state x="545" y="196" key="refactoring.ChangeSignatureDialog" timestamp="1603423679347">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="545" y="196" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1603423679347" />
+    <state x="425" y="186" key="run.anything.popup" timestamp="1603721705588">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="186" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1603721705588" />
+    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1603713949878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603713949878" />
+  </component>
+</project>
